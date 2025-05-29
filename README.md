@@ -1,4 +1,4 @@
-![alt text][https://github.com/yn1046/IsometricLearn/raw/master/screen1.png]
+![alt text](https://github.com/yn1046/IsometricLearn/raw/master/screen1.png)
 
 ### Description
 This is my first unity 3d game (isometric slasher inspired by hades)
